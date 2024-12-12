@@ -1,3 +1,3 @@
 # responsive-landing-page-fashion
 
-DEMO : https://Sara-alizadeh-developer/responsive-landing-page-fashion
+DEMO : https://sara-alizadeh-developer.github.io/responsive-landing-page-fashion
